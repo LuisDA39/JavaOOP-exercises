@@ -28,6 +28,22 @@ A Java class `Payment` that generates formatted payment messages including detai
 
 A Java class `Post` representing a social media post with features like ID, message, likes, and comments. It shows how to use arrays/lists and perform basic operations like adding likes and comments.
 
+### Animal Polymorphism
+
+A Java program that uses an abstract class and polymorphism to define different types of animals and their behaviors. It demonstrates the use of abstract classes and polymorphism in Java.
+
+### Click Counter
+
+A click counter application built using Swing that displays the number of clicks and includes a button that changes color randomly with each click. It showcases basic GUI development in Java.
+
+### Geometric Shapes
+
+A Java program that demonstrates inheritance by creating different geometric shapes (Triangle, Square, Circle) and calculating their areas and perimeters. It illustrates the use of inheritance and method overriding in Java.
+
+### Sum Calculator
+
+A simple calculator built using Swing that performs addition of two numbers. It includes a button to calculate the result and two text fields for input, capable of handling negative numbers. It showcases basic GUI development and event handling in Java.
+
 ## Usage
 
 Each project includes a `main` method for demonstration purposes. You can run them individually to see the output or integrate them into larger applications as needed.
